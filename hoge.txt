@@ -1,7 +1,3 @@
-test1
-uuuu
-test3
-
-bbbb
-xxxx
-bbbb
+i1
+i2
+i3
